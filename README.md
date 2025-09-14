@@ -22,7 +22,7 @@
 
 ## 🚀 Featured Projects
 - 🔐 [Pack UnPack Tool](https://github.com/atharvaparchure/Pack-UnPack) — Pack & unpack large directories into a single file  
-- ⚡ [Logic-Building Exercises](https://github.com/atharvaparchure/Logic_BUilding _Assignments) — C problems for beginners  
+- ⚡ [Logic-Building Exercises](https://github.com/atharvaparchure/Logic_Building_assignments) — C problems for beginners  
 
 ---
 
