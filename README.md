@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharva-parchure/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharva-parchure-204bba2a9/)
 [![GitHub](https://img.shields.io/github/followers/atharvaparchure?label=Follow&style=for-the-badge&logo=github)](https://github.com/atharvaparchure)
 
 ---
