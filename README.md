@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Atharva  
+<h1 align="center"><b>Hi there 👋, I'm Atharva Parchure</b></h1>  
 
-🚀 Passionate Software Engineering Enthusiast | Java • C • C++  
+💻 Passionate about programming in Java, C, and C++  
 📚 Exploring Data Structures, Algorithms, and System Design  
 
 ---
@@ -12,16 +12,15 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,git,github,vscode" />
 </p>
-
 
 ---
 
 ## 🚀 Featured Projects
 - 🔐 [Pack UnPack Tool](https://github.com/atharvaparchure/Pack-UnPack) — Pack & unpack large directories into a single file  
+- 📚 [Course Management System](https://github.com/atharvaparchure/course-management) — Java Swing + MySQL project  
 - ⚡ [Logic-Building Exercises](https://github.com/atharvaparchure/Logic_Building_assignments) — C problems for beginners  
 
 ---
