@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 - 🔐 [Pack UnPack Tool](https://github.com/atharvaparchure/CtOS-Compresser-and-encrypter) — Pack & unpack large directories into a single file  
-- 📚 [Course Management System](https://github.com/atharvaparchure/course-management) — Java Swing + MySQL project  
+- 🔐 [UNIX-CVFS](https://github.com/atharvaparchure/UNIX-Customized-Virtual-File-System) — Mimicking Linux based File system on any operating system  
 - ⚡ [Logic-Building Exercises](https://github.com/atharvaparchure/Logic_Building_assignments) — C problems for beginners  
 
 ---
