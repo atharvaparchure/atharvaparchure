@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔐 [Pack UnPack Tool](https://github.com/atharvaparchure/Pack-UnPack) — Pack & unpack large directories into a single file  
+- 🔐 [Pack UnPack Tool](https://github.com/atharvaparchure/CtOS-Compresser-and-encrypter) — Pack & unpack large directories into a single file  
 - 📚 [Course Management System](https://github.com/atharvaparchure/course-management) — Java Swing + MySQL project  
 - ⚡ [Logic-Building Exercises](https://github.com/atharvaparchure/Logic_Building_assignments) — C problems for beginners  
 
